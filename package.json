@@ -131,7 +131,7 @@
 		"satteri": "^0.9.1",
 		"sharp": "0.35.3",
 		"strip-markdown": "6.0.0",
-		"svgo": "4.0.2",
+		"svgo": "4.1.0",
 		"tailwind-merge": "3.6.0",
 		"tailwindcss": "4.1.4",
 		"tippy.js": "6.3.7",
